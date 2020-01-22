@@ -19,7 +19,7 @@ public class Main {
             System.out.println("Нет'r'.");
         }
         else {
-            System.out.println("Количество 'r'" + cout);
+            System.out.println("Количество 'r' " + cout);
         }
     }
 }
